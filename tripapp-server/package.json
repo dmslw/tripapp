@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukaszchomatek/tripapp.git"
+    "url": "git+https://github.com/dmslw/tripapp.git"
   },
   "author": "Dominik Mysliwy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukaszchomatek/tripapp/issues"
+    "url": "https://github.com/dmslw/tripapp/issues"
   },
-  "homepage": "https://github.com/lukaszchomatek/tripapp#readme",
+  "homepage": "https://github.com/dmslw/tripapp#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
