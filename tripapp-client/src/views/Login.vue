@@ -1,6 +1,6 @@
 <template>
   <q-form>
-    <h3>Witaj w tripapp</h3>
+    <h3>Witaj w tripapp:author Dominik Mysliwy</h3>
     <h6 v-if="message">{{message}}</h6>
     <q-input v-model="username" label="Login"></q-input>
     <q-input v-model="password" label="Hasło"></q-input>
